@@ -1,5 +1,5 @@
 ## 车牌定位
-![img](./data/finish/canon/show_IMG_0175.JPG)
+![img](./finish/canon/show_IMG_0185.JPG)
 ### 特点：
 1. 对于canon和iPhone等数据集有较好的检测效果，精度分别达到100%与95%
 1. 可以识别出一张图片中的多个车牌
